@@ -1,7 +1,7 @@
 # 💫 About Me:
 I enjoy building things where tech meets creativity — mostly small AI experiments and side projects that start messy and slowly start making sense. I’m a beginner just showing up, breaking things, fixing them, and pretending that was the plan all along, especially during hackathons and late-night idea spirals. You can ask me about building from scratch, refining half-baked ideas, or why good design deserves as much respect as good code
 
-Also, as per universal developer tradition, I’ve also leaked my API key in public — just contributing to the ecosystem like everyone else 💀
+Also, as per universal developer tradition, I’ve also leaked my API key in public —just contributing to the ecosystem like everyone else 💀
 
 10/10 rite of passage, 0/10 decision-making, would absolutely not recommend 👍
 

@@ -1,6 +1,7 @@
 # 💫 About Me:
 I enjoy building things where tech meets creativity — mostly small AI experiments and side projects that start messy and slowly start making sense. I’m a beginner just showing up, breaking things, fixing them, and pretending that was the plan all along, especially during hackathons and late-night idea spirals. You can ask me about building from scratch, refining half-baked ideas, or why good design deserves as much respect as good code
 Also, fun fact: I once published my API key… publicly… for character development ✨
+
 10/10 learning experience, would not recommend 👍
 Calm most of the time, slightly chaotic when inspired, always curious.
 

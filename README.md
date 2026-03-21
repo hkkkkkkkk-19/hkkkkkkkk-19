@@ -3,7 +3,7 @@ I enjoy building things where tech meets creativity — mostly small AI experime
 
 Also, as per universal developer tradition, I’ve also leaked my API key in public —just contributing to the ecosystem like everyone else 💀
 
-10/10 rite of passage, 0/10 decision-making, would absolutely not recommend 👍
+10/10 rite of passage and learning experience, but would absolutely not recommend 👍
 
 Calm most of the time, slightly chaotic when inspired, always curious.
 
